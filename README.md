@@ -1,8 +1,6 @@
 # J.A.R.V.I.S.BOT
 
-
-# Chatbot
-AI Based Chatbot
+An AI Based Chatbot
 
 ### Requirements
     Python = 2.x.x
