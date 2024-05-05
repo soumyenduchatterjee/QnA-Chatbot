@@ -1,4 +1,4 @@
-# J.A.R.V.I.S.BOT
+# QnA-Chatbot
 
 An AI Based Chatbot
 
